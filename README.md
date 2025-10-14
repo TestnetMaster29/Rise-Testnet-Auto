@@ -95,4 +95,4 @@ The bot uses the following contract addresses on Rise Testnet:
 
 This bot is for educational purposes and testing on Rise Testnet only. Do not use it on mainnet or with real funds. Always verify contract addresses and transactions before confirming.
 
-Last updated: Mon Oct 13 18:33:33 UTC 2025
+Last updated: Tue Oct 14 01:52:41 UTC 2025
